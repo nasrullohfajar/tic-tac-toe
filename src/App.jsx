@@ -30,9 +30,6 @@ function App() {
     });
   }
 
-  console.log("gameturns", gameTurns[0]);
-  console.log("activeplayer", activePlayer);
-
   return (
     <main>
       <div id="game-container">
